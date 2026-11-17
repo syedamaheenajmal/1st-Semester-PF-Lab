@@ -3,6 +3,7 @@ lAB: lAB 01
 Name: Syeda Maheen Ajmal
 Roll no: 2026-SE-24
 Date: 18 Nov,2026
+Purpose:To display a weekly timetable using cout and escapes.
 */
 #include <iostream>
 using namespace std;
