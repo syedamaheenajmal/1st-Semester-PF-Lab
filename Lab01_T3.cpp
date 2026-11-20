@@ -1,3 +1,9 @@
+/*
+Lab:01
+Name:Syeda Maheen Ajmal
+Roll no:18-11-26
+Purpose:To identify and fix common syntax errors in C++ and to practice using cout,endl and escapes sequences.
+*/
 #include <iostream>
 using namespace std;//Bug1: missing ; after std
 int main()
